@@ -1,16 +1,30 @@
-# Steph's Puppies
+# Sparkies Puppies
 
-**Project Link:** [Live Website](stephs-puppies.vercel.app/)
+A professional website for a family-owned dog breeding business based in Southern California.
 
 ## Project Overview
 
-**Steph's Puppies** is a web application designed to support a puppy adoption business by establishing its online presence. The website successfully attracted over 600 new users, enhancing the business's reach and engagement. The platform allows users to browse available puppies, learn more about the adoption process, and make inquiries directly through the site.
+Sparkies Puppies showcases available puppies, parent dogs, and detailed stud service information. The site features responsive design, interactive image galleries, and clean navigation for a professional user experience.
+
+## Spring 2025 CPSC 349-06 21737 Project Submission
+
+- Dave C
+- Dustin O
+
+## Features
+
+- Responsive design for mobile, tablet, and desktop
+- Interactive image galleries with Splide.js
+- Puppy/Parent toggle view
+- Stud service information section
+- FAQ accordion
+- Contact information and social links
+- Animated scroll elements
 
 ## Tech Stack
 
-- **Frontend:**
-  - React.js
-  - JavaScript
-  - Tailwind CSS
-- **Backend/Database:**
-  - Firebase
+- HTML5
+- Tailwind CSS for styling
+- Vanilla JavaScript
+- Splide.js for image carousels
+- Firebase for data storage
